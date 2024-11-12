@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Case Study: '
+title: 'Case Study: Securing Your Organization Against Common Threats'
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
