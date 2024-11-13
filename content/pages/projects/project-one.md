@@ -11,7 +11,7 @@ description: >-
   password spraying and unauthorized code execution.
 featuredImage:
   type: ImageBlock
-  url: /images/BlueBanner.png
+  url: /images/account-verification-with-password-3d-padlock.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
