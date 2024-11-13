@@ -4,7 +4,11 @@ title: 'Case Study: Securing Your Organization Against Common Threats'
 colors: colors-a
 date: '2024-11-12'
 client: Awesome client
-description: ''
+description: >-
+  This case study explores critical security techniques such as application
+  control policies, multi-factor authentication (MFA), and robust password
+  policies, illustrating how these defenses counter common attack vectors like
+  password spraying and unauthorized code execution.
 featuredImage:
   type: ImageBlock
   url: /images/BlueBanner.png
