@@ -5,9 +5,10 @@ colors: colors-a
 date: '2024-11-12'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  case study explorescritical security techniques such as application
+  controlpolicies, multi-factor authentication (MFA), and robustpassword
+  policies, illustrating how these defenses countercommon attack vectors like
+  password spraying andunauthorized code execution.
 featuredImage:
   type: ImageBlock
   url: /images/BlueBanner.png
