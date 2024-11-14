@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hi, I''m Madeline'
-    subtitle: >-
-      Geek by choice, protector by trade—making your digital world a safer
-      place.
+    subtitle: 'Geek by choice, protector by trade—making the digital world a safer place.'
     styles:
       self:
         height: auto
