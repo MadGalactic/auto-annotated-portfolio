@@ -43,11 +43,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-    media:
-      type: ImageBlock
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
