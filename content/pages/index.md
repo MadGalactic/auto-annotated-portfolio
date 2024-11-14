@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hi, I''m Madeline'
-    subtitle: Web developer. Information Security Analyst. Ethical Hacker.
+    subtitle: >-
+      Geek by choice, protector by trade—making your digital world a safer
+      place.
     styles:
       self:
         height: auto
