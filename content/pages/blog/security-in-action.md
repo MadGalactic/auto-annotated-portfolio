@@ -154,7 +154,7 @@ bottomSections:
       text:
         textAlign: left
   - type: TextSection
-    colors: colors-e
+    colors: colors-d
     variant: variant-b
     title: 'Lessons Learned:'
     subtitle: Continuous Improvement in Action
