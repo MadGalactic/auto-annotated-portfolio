@@ -17,7 +17,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Risk mitigation.jpeg
+  url: /images/risk matrix.jpeg
   altText: >-
     an image depicting the word risk circled at the center of a chalkboard, with
     the 4 risk mitigation strategies shooting off from each edge of the corner.
