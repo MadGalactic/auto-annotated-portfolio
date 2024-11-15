@@ -41,5 +41,5 @@ backgroundImage:
 author: content/data/team/madeline-lora.json
 bottomSections: []
 ---
-## The Role of Customer Questionnaires in Building Trust
+##
 
