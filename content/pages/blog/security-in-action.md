@@ -3,14 +3,10 @@ type: PostLayout
 title: 'Risk Assessments: Identifying and Managing Potential Threats'
 date: '2024-11-15'
 excerpt: >-
-  In today’s digital landscape, businesses face increasing scrutiny over how
-  they protect data and ensure compliance with ever-evolving regulations. For
-  organizations like Symposia, customer trust isn’t just a value—it's a
-  necessity. That’s where tools like customer questionnaires and risk
-  assessments come into play. These processes not only demonstrate our
-  commitment to security and privacy but also help us continuously improve our
-  practices. Let’s take a behind-the-scenes look at how Symposia approaches
-  security assurance and risk management, using real examples from our work.
+  While questionnaires focus on communicating existing safeguards, risk
+  assessments help us identify potential vulnerabilities and develop strategies
+  to mitigate them. Let’s explore how we applied this process to a recent
+  project with CloudGen DataVault, a new customer with access to sensitive data.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
