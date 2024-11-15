@@ -39,34 +39,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 author: content/data/team/madeline-lora.json
-bottomSections:
-  - type: TextSection
-    colors: colors-d
-    variant: variant-b
-    title: The Role of Customer Questionnaires in Building Trust
-    subtitle: The section subtitle
-    text: >
-      When potential customers evaluate Symposia’s services, they often ask a
-      key question: *“How do you protect our data?”.* Answering this isn’t just
-      about saying, “We take security seriously.” It’s about providing evidence
-      through detailed customer questionnaires.
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
+bottomSections: []
 ---
 ## The Role of Customer Questionnaires in Building Trust
 
