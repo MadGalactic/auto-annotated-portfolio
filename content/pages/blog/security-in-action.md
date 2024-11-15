@@ -11,7 +11,7 @@ excerpt: >-
   necessity. That’s where tools like customer questionnaires and risk
   assessments come into play. These processes not only demonstrate our
   commitment to security and privacy but also help us continuously improve our
-  practices.Let’s take a behind-the-scenes look at how Symposia approaches
+  practices. Let’s take a behind-the-scenes look at how Symposia approaches
   security assurance and risk management, using real examples from our work.
 featuredImage:
   type: ImageBlock
