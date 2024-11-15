@@ -47,7 +47,7 @@ bottomSections:
     subtitle: The section subtitle
     text: >
       When potential customers evaluate Symposia’s services, they often ask a
-      key question: *“How do you protect our data?”* Answering this isn’t just
+      key question: *“How do you protect our data?”.* Answering this isn’t just
       about saying, “We take security seriously.” It’s about providing evidence
       through detailed customer questionnaires.
     elementId: ''
