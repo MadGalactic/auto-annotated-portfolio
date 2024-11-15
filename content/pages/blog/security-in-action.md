@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: The Role of Customer Questionnaires in Building Trust
+title: >-
+  From Customer Assurance to Risk Mitigation: A Behind-the-Scenes Look at
+  Security in Action
 date: '2024-11-15'
 excerpt: >-
   While questionnaires focus on communicating existing safeguards, risk
