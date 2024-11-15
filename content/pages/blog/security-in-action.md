@@ -44,13 +44,11 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: The Role of Customer Questionnaires in Building Trust
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      When potential customers evaluate Symposia’s services, they often ask a
+      key question: *“How do you protect our data?”* Answering this isn’t just
+      about saying, “We take security seriously.” It’s about providing evidence
+      through detailed customer questionnaires.
     elementId: ''
     styles:
       self:
