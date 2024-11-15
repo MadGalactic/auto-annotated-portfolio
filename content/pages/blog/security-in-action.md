@@ -12,7 +12,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/risk bulb.jpeg
-  altText: Post thumbnail image
+  altText: >-
+    word bubble in the shape of a light bulb with the words risk management in
+    the center and other related words filling the rest of the shape. 
   caption: Caption of the image
   elementId: ''
 media:
