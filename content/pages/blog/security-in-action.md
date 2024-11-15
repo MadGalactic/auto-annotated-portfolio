@@ -157,7 +157,7 @@ bottomSections:
     colors: colors-d
     variant: variant-b
     title: 'Lessons Learned:'
-    subtitle: The section subtitle
+    subtitle: Continuous Improvement in Action
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
