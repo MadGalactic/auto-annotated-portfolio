@@ -96,13 +96,13 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: 'Risk Assessments: Identifying and Managing Potential Threats'
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      While questionnaires focus on communicating existing safeguards, risk
+      assessments help us identify potential vulnerabilities and develop
+      strategies to mitigate them. Let’s explore how we applied this process to
+      a recent project with CloudGen DataVault, a new customer with access to
+      sensitive data.
+
     elementId: ''
     styles:
       self:
