@@ -1,8 +1,6 @@
 ---
 type: PostLayout
-title: >-
-  From Customer Assurance to Risk Mitigation: A Behind-the-Scenes Look at
-  Security in Actionost title
+title: 'Risk Assessments: Identifying and Managing Potential Threats'
 date: '2024-11-15'
 excerpt: >-
   In today’s digital landscape, businesses face increasing scrutiny over how
