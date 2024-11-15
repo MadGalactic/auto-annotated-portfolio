@@ -1,8 +1,8 @@
 ---
 type: PostLayout
 title: >-
-  This is a blog pFrom Customer Assurance to Risk Mitigation: A
-  Behind-the-Scenes Look at Security in Actionost title
+  From Customer Assurance to Risk Mitigation: A Behind-the-Scenes Look at
+  Security in Actionost title
 date: '2024-11-15'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
