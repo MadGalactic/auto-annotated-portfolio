@@ -49,6 +49,36 @@ bottomSections:
       key question: *“How do you protect our data?”* Answering this isn’t just
       about saying, “We take security seriously.” It’s about providing evidence
       through detailed customer questionnaires.
+
+
+      For instance, one of our recent questionnaires covered critical areas such
+      as:
+
+
+      *   **Incident Response Plans:** We test our incident response plan
+      annually to ensure we’re prepared for the unexpected.
+
+
+      *   **Multi-Factor Authentication (MFA):** Required for all enterprise
+      applications and production systems, ensuring an extra layer of protection
+      for sensitive data.
+
+
+      *   **Third-Party Risk Management:** Before sharing data with any third
+      party, we perform a comprehensive risk assessment, which includes
+      reviewing the vendor’s SOC 2 or ISO 27001 certifications and evaluating
+      the data they’ll handle.
+
+
+      *   **Employee Training:** Security awareness training is mandatory for
+      all employees and third parties with privileged access, completed within
+      two weeks of onboarding and refreshed annually.
+
+
+      Each answer aligns with Symposia’s overarching commitment to industry
+      standards like GDPR, ISO 27001, and SOC 2. This transparency not only
+      satisfies customer concerns but also reinforces our reputation as a
+      security-first organization.
     elementId: ''
     styles:
       self:
