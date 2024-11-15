@@ -96,13 +96,46 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: 'Risk Assessments: Identifying and Managing Potential Threats'
-    text: >+
+    text: >
       While questionnaires focus on communicating existing safeguards, risk
       assessments help us identify potential vulnerabilities and develop
       strategies to mitigate them. Let’s explore how we applied this process to
       a recent project with CloudGen DataVault, a new customer with access to
       sensitive data.
 
+
+      **Step 1: Evaluating Inherent Risks**
+
+      We began by categorizing risks based on their likelihood and impact:
+
+
+      *   **High Risk:** Unauthorized access to sensitive customer data due to
+      system vulnerabilities.
+
+
+      *   **Moderate Risk:** Insider threats or compliance violations.
+
+
+      *   **Low Risk:** Service disruptions or phishing attacks targeting
+      employees.
+
+
+      **Step 2: Prioritizing and Mitigating Risks**
+
+      For each risk, we implemented tailored mitigation strategies:
+
+
+      *   To address **unauthorized access**, we conducted regular penetration
+      testing, enforced role-based access controls (RBAC), and implemented
+      strict safeguards around sensitive data.
+
+
+      *   For **phishing risks**, we strengthened employee training programs to
+      reduce susceptibility to social engineering attacks.
+
+
+      Certain risks, such as **technical downtime**, were accepted as low
+      likelihood and manageable within existing recovery protocols.
     elementId: ''
     styles:
       self:
