@@ -27,7 +27,7 @@ media:
     the 4 risk mitigation strategies shooting off from each edge of the corner.
     Reduce on the top left, transfer on the top right, accept on the bottom
     left, avoid on bottom right. 
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
